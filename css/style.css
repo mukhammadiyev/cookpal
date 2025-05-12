@@ -634,3 +634,51 @@ footer .container-footer {
 	cursor: pointer;
 }
 
+/* footer end */
+
+.user-modal-bg{
+	display: none;
+	z-index: 5;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	user-select: none;
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+.user-modal-bg.restarted{
+	display: block;
+}
+
+.user-modal-bg .modal{
+	margin: 140px 1340px;
+	width: 120px;
+	height: 140px;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	border: 1px solid black;
+}
+
+.modal .user-instuments{
+	font-family: var(--monserrat);
+	width: 100%;
+	height: 25px;
+	padding: 6px 14px;
+	gap: 9px;
+	font-size: 13px;
+	font-weight: 600;
+	align-items: start;
+	transition: .5s;
+	cursor: pointer;
+}
+
+.modal .user-instuments img{
+	margin-right: 5px;
+}
+
+.modal .user-instuments:hover{
+	background-color: #84BD007D;
+}
