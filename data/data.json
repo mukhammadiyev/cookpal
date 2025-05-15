@@ -1,0 +1,94 @@
+{
+	"results": [
+		{
+			"img": "https://drivemehungry.com/wp-content/uploads/2019/03/thai-basil-tofu-stir-fry-pad-krapow-gai-5.jpg",
+			"name": "Thai Basil Tofu Stir Fry",
+			"price": 123,
+			"time": 30,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Dry",
+			"sort": "Cusines"
+		},
+		{
+			"img": "https://thewoksoflife.com/wp-content/uploads/2023/04/kung-pao-shrimp-13-1024x1536.jpg",
+			"name": "Kung Pao Shrimp",
+			"price": 123,
+			"time": 30,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Dry",
+			"sort": "Cusines"
+		},
+		{
+			"img": "https://www.tamingtwins.com/wp-content/uploads/2023/09/image-45.jpeg",
+			"name": "Thai Basil Tofu Stir Fry",
+			"price": 123,
+			"time": 40,
+			"comments": 80,
+			"likes": 100,
+			"type": "Super Dry",
+			"sort": "Cusines"
+		},
+		{
+			"img": "https://www.eatingbirdfood.com/wp-content/uploads/2024/05/egg-white-bites-hero-cropped.jpg",
+			"name": "Egg White Bites",
+			"price": 123,
+			"time": 10,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Easy",
+			"sort": "Diet"
+		},
+		{
+			"img": "https://cookieandkate.com/images/2018/08/greek-farro-salad-recipe-4.jpg",
+			"name": "Greek Farro salad",
+			"price": 123,
+			"time": 15,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Dry",
+			"sort": "Diet"
+		},
+		{
+			"img": "https://www.themediterraneandish.com/wp-content/uploads/2018/03/Mediterranean-Chickpea-Egg-Salad-Recipe-The-Mediterranean-Dish-1.jpg",
+			"name": "Mediterranian Diet Snack",
+			"price": 123,
+			"time": 30,
+			"comments": 80,
+			"likes": 100,
+			"type": "Super Dry",
+			"sort": "Diet"
+		},
+		{
+			"img": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies-850x1276.jpg",
+			"name": "Drop cookie",
+			"price": 123,
+			"time": 10,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Dry",
+			"sort": "Bakery"
+		},
+		{
+			"img": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/11/11/enhanced/webdr01/enhanced-1337-1423672055-24.jpg?downsize=700:*&output-quality=auto&output-format=auto",
+			"name": "Chocolate cupcake",
+			"price": 123,
+			"time": 15,
+			"comments": 35,
+			"likes": 55,
+			"type": "Super Dry",
+			"sort": "Bakery"
+		},
+		{
+			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Irish_brown_soda_bread.JPG/500px-Irish_brown_soda_bread.JPG",
+			"name": "Brown bread",
+			"price": 123,
+			"time": 30,
+			"comments": 80,
+			"likes": 100,
+			"type": "Super Dry",
+			"sort": "Bakery"
+		}
+	]
+}
