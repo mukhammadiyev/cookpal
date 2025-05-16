@@ -8,7 +8,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Dry",
-			"sort": "Cusines"
+			"sort": "Cusines",
+			"stars": "⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://thewoksoflife.com/wp-content/uploads/2023/04/kung-pao-shrimp-13-1024x1536.jpg",
@@ -18,7 +19,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Dry",
-			"sort": "Cusines"
+			"sort": "Cusines",
+			"stars": "⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://www.tamingtwins.com/wp-content/uploads/2023/09/image-45.jpeg",
@@ -28,7 +30,8 @@
 			"comments": 80,
 			"likes": 100,
 			"type": "Super Dry",
-			"sort": "Cusines"
+			"sort": "Cusines",
+			"stars": "⭐⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://www.eatingbirdfood.com/wp-content/uploads/2024/05/egg-white-bites-hero-cropped.jpg",
@@ -38,7 +41,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Easy",
-			"sort": "Diet"
+			"sort": "Diet",
+			"stars": "⭐⭐⭐"
 		},
 		{
 			"img": "https://cookieandkate.com/images/2018/08/greek-farro-salad-recipe-4.jpg",
@@ -48,7 +52,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Dry",
-			"sort": "Diet"
+			"sort": "Diet",
+			"stars": "⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://www.themediterraneandish.com/wp-content/uploads/2018/03/Mediterranean-Chickpea-Egg-Salad-Recipe-The-Mediterranean-Dish-1.jpg",
@@ -58,7 +63,8 @@
 			"comments": 80,
 			"likes": 100,
 			"type": "Super Dry",
-			"sort": "Diet"
+			"sort": "Diet",
+			"stars": "⭐⭐⭐"
 		},
 		{
 			"img": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies-850x1276.jpg",
@@ -68,7 +74,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Dry",
-			"sort": "Bakery"
+			"sort": "Bakery",
+			"stars": "⭐⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/11/11/enhanced/webdr01/enhanced-1337-1423672055-24.jpg?downsize=700:*&output-quality=auto&output-format=auto",
@@ -78,7 +85,8 @@
 			"comments": 35,
 			"likes": 55,
 			"type": "Super Dry",
-			"sort": "Bakery"
+			"sort": "Bakery",
+			"stars": "⭐⭐⭐⭐⭐"
 		},
 		{
 			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Irish_brown_soda_bread.JPG/500px-Irish_brown_soda_bread.JPG",
@@ -88,7 +96,8 @@
 			"comments": 80,
 			"likes": 100,
 			"type": "Super Dry",
-			"sort": "Bakery"
+			"sort": "Bakery",
+			"stars": "⭐⭐⭐⭐"
 		}
 	]
 }
